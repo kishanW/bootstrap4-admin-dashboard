@@ -172,6 +172,9 @@ body{
 
  /* Large devices (desktops, 992px and up) */
 @media (max-width: 992px) {
+    #site-logo{
+        margin-bottom: 10px;
+    }
     #main-nav {
         height: auto;
         flex-direction: column;
